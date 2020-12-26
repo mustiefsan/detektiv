@@ -1,4 +1,4 @@
-# detektiv
+# Instagram Stories Plugin For WordPress
 
 Instagram Stories Plugin For WordPress
 Create your own custom Instagram style stories. Show them on any part of your site by adding custom links, text and images.
